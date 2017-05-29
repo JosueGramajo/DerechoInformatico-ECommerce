@@ -12,6 +12,9 @@ html {
 body {
   margin: 0;
 }
+logo_imagen {
+    text-align: center;  /* align center all inline elements */
+}
 article,
 aside,
 details,
